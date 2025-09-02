@@ -1,4 +1,5 @@
 # Sales and Profit Analysis for a Retail Network
+
 ## Objective:
 * Conduct a comprehensive analysis of sales data over a specific period (February 2025) to identify key revenue and profit metrics by country, product, sales representative, and store location, as well as to determine top performers and best areas for business optimization.
 
