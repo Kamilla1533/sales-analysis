@@ -18,3 +18,4 @@
 * Determined the top 10 best-selling products and top 5 highest-performing sales representatives;
 * Calculated key aggregated statistics: minimum, maximum, average, and total revenue and profit
 * Insights enable focused marketing and inventory allocation on products and regions with the highest potential.
+- Dashboard Interaction <a href = "">View Dashboard</a>
